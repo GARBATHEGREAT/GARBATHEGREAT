@@ -1,6 +1,6 @@
 # Hi, I'm John Garba
 
-Software engineer in Abuja, Nigeria. Remote, flexible hours. I build web, mobile and AI-audio products and evaluate AI output for quality.
+Software engineer in Abuja, Nigeria, open to remote work. I build and evaluate AI systems (speech models, AI-written code) and ship full-stack and Android products.
 
 ## What I work on
 - **AI and speech:** training and benchmarking streaming speech models (PyTorch, CUDA, Whisper, HuBERT), with held-out evaluation and documented negative results.
@@ -13,8 +13,9 @@ Software engineer in Abuja, Nigeria. Remote, flexible hours. I build web, mobile
 |---|---|
 | [SpendWise](https://github.com/GARBATHEGREAT/SpendWise) | Kotlin + Jetpack Compose expense tracker with unit tests and CI |
 | [Bread of Life website](https://github.com/GARBATHEGREAT/BOL-church-website) | Public site + protected admin dashboard used by non-technical staff ([live](https://bol-church-website.vercel.app)) |
+| [evalkit](https://github.com/GARBATHEGREAT/evalkit) | Open-source toolkit that scores AI-written code against hidden tests and a rubric, with pairwise reports and annotator agreement |
 | [CineVoice Studio showcase](https://github.com/GARBATHEGREAT/cinevoice-studio-showcase) | Real-time voice and accent AI: architecture, evaluation and results |
 | [Quick Med](https://github.com/GARBATHEGREAT/quickmed) | Android medical-emergency app UI |
 
 ## Contact
-Portfolio: https://garbajohn.vercel.app  |  garbajohn101@gmail.com
+Portfolio: https://garbajohn.vercel.app  |  LinkedIn: https://linkedin.com/in/john-garba-7885a030a  |  garbajohn101@gmail.com
