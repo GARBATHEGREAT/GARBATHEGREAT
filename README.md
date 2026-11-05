@@ -14,6 +14,7 @@ Software engineer in Abuja, Nigeria, open to remote work. I build and evaluate A
 | [SpendWise](https://github.com/GARBATHEGREAT/SpendWise) | Kotlin + Jetpack Compose expense tracker with unit tests and CI |
 | [Bread of Life website](https://github.com/GARBATHEGREAT/BOL-church-website) | Public site + protected admin dashboard used by non-technical staff ([live](https://bol-church-website.vercel.app)) |
 | [evalkit](https://github.com/GARBATHEGREAT/evalkit) | Open-source toolkit that scores AI-written code against hidden tests and a rubric, with pairwise reports and annotator agreement |
+| [jaxlab](https://github.com/GARBATHEGREAT/jaxlab) | JAX, XLA and Pallas experiments (windowed attention, streaming conv, a kernel) with honest CPU benchmarks; no TPU run yet |
 | [CineVoice Studio showcase](https://github.com/GARBATHEGREAT/cinevoice-studio-showcase) | Real-time voice and accent AI: architecture, evaluation and results |
 | [Quick Med](https://github.com/GARBATHEGREAT/quickmed) | Android medical-emergency app UI |
 
